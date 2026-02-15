@@ -21,5 +21,5 @@ I build full-stack applications, AI-powered tools, and data pipelines. I care ab
 
 ### Connect
 
-- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE) *(update this link)*
+- [LinkedIn](https://www.linkedin.com/in/mukesh-ravichandran/)
 - [Email](mailto:mravichandr@leomail.tamuc.edu)
