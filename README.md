@@ -31,8 +31,8 @@ currently: training DSA, building side projects, looking for SWE roles
 
 ### Ships I've built
 
-| Project | Stack | What it proves |
-|---------|-------|----------------|
+| Project | Stack | The hard part |
+|---------|-------|---------------|
 | [**renaissance-learning-agent**](https://github.com/pushpullleg/renaissance-learning-agent) | Python, Streamlit, OpenAI | 3,500+ line AI learning platform with real-time analytics — hackathon winner |
 | [**cricket-commentary-agents**](https://github.com/pushpullleg/cricket-commentary-agents) | Python, OpenAI, Multi-agent | 5 specialized agents with event polling, query routing, and probability engine |
 | [**ncaa-financial-predictor**](https://github.com/pushpullleg/ncaa-financial-predictor) | Python, XGBoost, Scikit-learn | ML pipeline: 87.6% accuracy, 0.97 ROC-AUC across 10 years of NCAA data |
