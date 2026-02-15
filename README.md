@@ -4,6 +4,11 @@
 
 I build full-stack applications, AI-powered tools, and data pipelines. I care about clean architecture, good documentation, and shipping things that work.
 
+### What I'm working on
+
+- Training DSA on [LeetCode](https://leetcode.com/u/pushpullleg/) and building side projects to sharpen my systems thinking
+- Looking for Software Engineer roles where I can ship production code and grow with a strong team
+
 ### What I work with
 
 **Languages:** Python, JavaScript/TypeScript, Java, SQL
@@ -21,5 +26,4 @@ I build full-stack applications, AI-powered tools, and data pipelines. I care ab
 
 ### Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mukesh-ravichandran/)
-- [Email](mailto:mravichandr@leomail.tamuc.edu)
+[LinkedIn](https://www.linkedin.com/in/mukesh-ravichandran/) · [LeetCode](https://leetcode.com/u/pushpullleg/) · [Email](mailto:mravichandr@leomail.tamuc.edu)
