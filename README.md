@@ -14,10 +14,10 @@ I build full-stack applications, AI-powered tools, and data pipelines. I care ab
 
 ### Featured projects
 
-- [**Renaissance Adaptive Learning Agent**](https://github.com/pushpullleg/Hackathon_Fall2025) — AI-powered learning platform with OpenAI integration and real-time analytics (Hackathon winner)
-- [**AI Agent System**](https://github.com/pushpullleg/AI_Agent_System) — Multi-agent architecture for real-time cricket commentary with intelligent query routing
-- [**NCAA Financial Predictor**](https://github.com/pushpullleg/AI_Using_Python_Project) — XGBoost ML pipeline predicting financial trajectories with 87.6% accuracy
-- [**Fitness Tracker**](https://github.com/pushpullleg/fitness-tracker) — Serverless full-stack app with PostgreSQL, GitHub Actions CI/CD, and email automation
+- [**renaissance-learning-agent**](https://github.com/pushpullleg/renaissance-learning-agent) — AI adaptive learning platform with OpenAI tutoring, real-time analytics, and career roadmaps (3,500+ lines, hackathon winner)
+- [**cricket-commentary-agents**](https://github.com/pushpullleg/cricket-commentary-agents) — Multi-agent system with event polling, query routing, probability engine, and 5 specialized agents
+- [**ncaa-financial-predictor**](https://github.com/pushpullleg/ncaa-financial-predictor) — XGBoost ML pipeline predicting financial trajectories — 87.6% accuracy, 0.97 ROC-AUC across 10 years of data
+- [**fittober-platform**](https://github.com/pushpullleg/fittober-platform) — Full-stack serverless app: Node.js + PostgreSQL + GitHub Actions CI/CD + email automation + real-time leaderboards
 
 ### Connect
 
