@@ -1,11 +1,11 @@
 ## Mukesh Ravichandran
 
-MS Computer Science student at East Texas A&M. I build full-stack web apps, data pipelines, and AI-backed tools.
+MS Computer Science student at East Texas A&M. 
 
-Currently studying DSA and looking for SWE roles.
+Curious Engineer with a tool-agnostic approach to problem-solving. I focus on Systems Thinking—understanding how components interact to build scalable, efficient, and common-sense solutions
 
-**Languages & tools**
-Python · JavaScript · TypeScript · Java · SQL · Node.js · PostgreSQL · Streamlit · Flask · GitHub Actions · Docker · OpenAI API · XGBoost
+Actively refining my Problem-Solving toolkit (DSA) and preparing for Software Engineering challenges. Let's build something efficient.
+
 
 **Links**
 [LinkedIn](https://www.linkedin.com/in/mukesh-ravichandran/) · [LeetCode](https://leetcode.com/u/pushpullleg/) · [Email](mailto:mravichandr@leomail.tamuc.edu)
