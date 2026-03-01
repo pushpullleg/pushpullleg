@@ -4,7 +4,7 @@ MS Computer Science student at East Texas A&M.
 
 Curious Engineer with a tool-agnostic approach to problem-solving. I focus on Systems Thinking with an understanding how components interact to build scalable, efficient, and common-sense solutions
 
-Actively refining my Problem-Solving toolkit (DSA) and preparing for Software Engineering challenges. Let's build something efficient.
+Actively refining my Problem-Solving toolkit (DSA) and preparing for Software Engineering challenges. 
 
 
 **Links**
